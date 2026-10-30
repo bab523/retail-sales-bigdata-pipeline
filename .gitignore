@@ -1,0 +1,4 @@
+*.csv
+sales_parquet/
+*.png
+__pycache__/
